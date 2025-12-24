@@ -34,3 +34,7 @@ This project is intended for:
 
 ## License
 This project is shared for **educational and amateur radio use**.
+
+## License
+This project is released under the MIT License.
+
